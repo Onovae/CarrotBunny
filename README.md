@@ -1,4 +1,4 @@
-# CarrotBunny is a Python project in Investigating a Dataset Using Numpy and Pandas Libraries and visualizing the data using Matpoltlib.
+# CarrotBunny is a Python project on Investigating a Dataset Using Numpy and Pandas Libraries and visualizing the data using Matpoltlib.
 The dataset TMDb Movies data used in these analysis are details showing 10,000 films collected from TMDb Movie Database. Budget, revenue, released year and some others are some basic data for the analysis.
 
 Below are information supplied by each released film:
